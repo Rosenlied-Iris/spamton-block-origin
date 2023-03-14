@@ -17,7 +17,7 @@ tc.research_category.THAUMICINSURGENCE=Thaumic Insurgence
 
 tc.research_name.TI_InfusionIntercepter=Infusion Interceptor
 tc.research_text.TI_InfusionIntercepter=Glitching Through the Matrix
-InfusionInterceptor.1=Throughout your studies and use of the Infusion Matrix, you've consistently faced the issue of just how slow that cube is. For some reason, it only ever seems to want to take a tiny trickle of one essentia type at once, and much slower than other forms of essentia diffusion.<BR><BR>No longer. You've formulated a device that improves on the Infusion Matrix to inject essentia directly into it as if were an alchemical construct, allowing much faster essentia throughput for less temporal alteration.<BR><BR>Place the intercepter directly below your infusion altar's center pedestal; it will accept essentia through its bottom face via pipes, Essentia Pumps, Essentia Providers...
+InfusionIntercepter.1=Throughout your studies and use of the Infusion Matrix, you've consistently faced the issue of just how slow that cube is. For some reason, it only ever seems to want to take a tiny trickle of one essentia type at once, and much slower than other forms of essentia diffusion.<BR><BR>No longer. You've formulated a device that improves on the Infusion Matrix to inject essentia directly into it as if were an alchemical construct, allowing much faster essentia throughput for less temporal alteration.<BR><BR>Place the intercepter directly below your infusion altar's center pedestal; it will accept essentia through its bottom face via pipes, Essentia Pumps, Essentia Providers...
 
 
 
@@ -39,7 +39,7 @@ tc.research_text.TI_DeliciousKromer=THIS IS [One Purchase] YOU WILL [Regret] FOR
 #Tiles
 
 #Items
-tile.infusionIntercepter.name=Infusion Intercepter
+tile.infusionIntercepter.name=Infusion Interceptor
 
 item.ItemRedCrown.name=Red Crown
 item.ItemEightBitRedCrown.name=Red Crown
